@@ -1,7 +1,7 @@
-[![MasterHead](https://www.google.com/url?sa=i&url=https%3A%2F%2Fwww.discoverdatascience.org%2Fcareer-information%2Fartificial-intelligence-engineer%2F&psig=AOvVaw0EE6c47wM_a73HTnZ-vLnO&ust=1685289874881000&source=images&cd=vfe&ved=0CBEQjRxqFwoTCIDmupTwlf8CFQAAAAAdAAAAABAZ)](https://usmanbvp.io)
+[![MasterHead align = "center"](https://assets.kpmg.com/is/image/kpmg/a-sneak-peek-into-2030-with-generative-ai-2000x500:cq5dam.web.2000.500)](https://github.com/usmanbvp)
 <h1 align="center">Hi 👋, I'm Usman</h1>
 <h3 align="center">A passionate Data Science and AI Engineer from India</h3>
-<img align="right" alt="Coding" width="400" src="https://www.google.com/imgres?imgurl=https%3A%2F%2Fwww.gtalent.jp%2Fblog%2Fwp-content%2Fuploads%2F2019%2F11%2Fai-engineer01_w1000h670.jpg&tbnid=3cpDkd4ZYzAicM&vet=12ahUKEwifs_qT8JX_AhV8zqACHaGXBeAQMygSegUIARD1AQ..i&imgrefurl=https%3A%2F%2Fwww.gtalent.jp%2Fblog%2Fjapanwork-en%2Fjob-hunting-en%2Fai-engineer-en&docid=iZbo0r2-LabwXM&w=1000&h=670&q=ai%20engineer%20pic&ved=2ahUKEwifs_qT8JX_AhV8zqACHaGXBeAQMygSegUIARD1AQ")
+
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=usmanbvp&label=Profile%20views&color=0e75b6&style=flat" alt="usmanbvp" /> </p>
 
