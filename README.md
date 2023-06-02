@@ -7,7 +7,7 @@
 
 - 🔭 I’m currently working on [Telecom Customer Churn Prediction](https://github.com/usmanbvp/Telecom-Customer-Churn-Prediction.git)
 
-- 🌱 I’m currently learning **Tableau, Deep Learning**
+- 🌱 I’m currently learning **Tableau, PowerBI, Deep Learning**
 
 - 💬 Ask me about **Data Science, Machine Learning**
 
