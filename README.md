@@ -9,7 +9,7 @@
 
 - 🌱 I’m currently learning **Tableau, PowerBI, Deep Learning**
 
-- 💬 Ask me about **Data Science, Machine Learning**
+- 💬 Ask me about **Data Science, Artificial Intelligence, Machine Learning**
 
 - 📄 Know about my experiences [https://drive.google.com/file/d/1LpYQEx_EO0c7n5EIdQUlXgbC23hRB_Fx/view?usp=sharing](https://drive.google.com/file/d/1LpYQEx_EO0c7n5EIdQUlXgbC23hRB_Fx/view?usp=sharing)
 
