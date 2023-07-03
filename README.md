@@ -5,7 +5,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=usmanbvp&label=Profile%20views&color=0e75b6&style=flat" alt="usmanbvp" /> </p>
 
-- 🔭 I’m currently working on [Telecom Customer Churn Prediction](https://github.com/usmanbvp/Telecom-Customer-Churn-Prediction.git)
+- 🔭 I’m currently working on [Employees Burnout Analysis and Prediction](https://github.com/usmanbvp/Employees-Burnout-Analysis-and-Prediction.git)
 
 - 🌱 I’m currently learning **Tableau, PowerBI, Deep Learning**
 
