@@ -5,11 +5,11 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=usmanbvp&label=Profile%20views&color=0e75b6&style=flat" alt="usmanbvp" /> </p>
 
-- 🔭 I’m currently working on [Employees Burnout Analysis and Prediction](https://github.com/usmanbvp/Employees-Burnout-Analysis-and-Prediction.git)
+- 🔭 I’m currently working on .........
 
 - 🌱 I’m currently learning **Tableau, PowerBI, Deep Learning**
 
-- 💬 Ask me about **Data Science, Artificial Intelligence, Machine Learning**
+- 💬 Ask me about **Data Science, Machine Learning**
 
 - 📄 Know about my experiences [https://drive.google.com/file/d/1LpYQEx_EO0c7n5EIdQUlXgbC23hRB_Fx/view?usp=sharing](https://drive.google.com/file/d/1LpYQEx_EO0c7n5EIdQUlXgbC23hRB_Fx/view?usp=sharing)
 
