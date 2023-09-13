@@ -1,11 +1,11 @@
 [![MasterHead align = "center"](https://assets.kpmg.com/is/image/kpmg/a-sneak-peek-into-2030-with-generative-ai-2000x500:cq5dam.web.2000.500)](https://github.com/usmanbvp)
 <h1 align="center">Hey 👋, I'm Usman</h1>
-<h3 align="center">A passionate Data Science and AI Engineer from India</h3>
+<h3 align="center">A passionate Data Science and Machine Learning Engineer from India</h3>
 
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=usmanbvp&label=Profile%20views&color=0e75b6&style=flat" alt="usmanbvp" /> </p>
 
-- 🔭 I’m currently working on .........
+- 🔭 I’m currently working on EchoTech Hackathon
 
 - 🌱 I’m currently learning **Tableau, PowerBI, Deep Learning**
 
