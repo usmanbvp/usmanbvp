@@ -5,13 +5,13 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=usmanbvp&label=Profile%20views&color=0e75b6&style=flat" alt="usmanbvp" /> </p>
 
-- 🔭 I’m currently working on EchoTech Hackathon
+- 🔭 I’m currently working on Cancer Prediction Project
 
-- 🌱 I’m currently learning **Tableau, PowerBI, Deep Learning**
+- 🌱 I’m currently learning **Tableau, Deep Learning**
 
 - 💬 Ask me about **Data Science, Machine Learning**
 
-- 📄 Know about my experiences [https://drive.google.com/file/d/1LpYQEx_EO0c7n5EIdQUlXgbC23hRB_Fx/view?usp=sharing](https://drive.google.com/file/d/1LpYQEx_EO0c7n5EIdQUlXgbC23hRB_Fx/view?usp=sharing)
+- 📄 Know about my experiences [resume](https://drive.google.com/file/d/1DV1lRxe5_hG2Ribk-XYey02VnF5KkaUk/view?usp=sharing)
 
 - ⚡ Fun fact **I think I am funny**
 
