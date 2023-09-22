@@ -1,4 +1,4 @@
-[![MasterHead align = "center"](https://assets.kpmg.com/is/image/kpmg/a-sneak-peek-into-2030-with-generative-ai-2000x500:cq5dam.web.2000.500)](https://github.com/usmanbvp)
+
 <h1 align="center">Hey 👋, I'm Usman</h1>
 <h3 align="center">A passionate Data Science and Machine Learning Engineer from India</h3>
 
