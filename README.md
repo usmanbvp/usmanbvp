@@ -3,8 +3,6 @@
 <h3 align="center">A passionate Data Science and Machine Learning Engineer from India</h3>
 
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=usmanbvp&label=Profile%20views&color=0e75b6&style=flat" alt="usmanbvp" /> </p>
-
 - 🔭 I’m currently working on Cancer Prediction Project
 
 - 🌱 I’m currently learning **Tableau, Deep Learning**
