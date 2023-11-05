@@ -1,7 +1,7 @@
 <h1 align="center">Hey 👋, I'm Usman</h1>
-<h3 align="center">A Data Science Enthusiast from India</h3>
+<h3 align="center">Aspiring Data Scientist from India</h3>
 
-- 🔭 I’m a **Data Science Enthusiast**
+- 🔭 I’m a **Aspiring Data Scientist**
 
 - 🌱 I’m currently learning **Deep Learning**
 
