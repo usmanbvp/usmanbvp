@@ -1,7 +1,7 @@
 <h1 align="center">Hey 👋, I'm Usman</h1>
-<h3 align="center">A passionate Data Science and Machine Learning Engineer from India</h3>
+<h3 align="center">A Data Science Enthusiast from India</h3>
 
-- 🔭 I’m a **Data Science and Machine Learning Enthusiast**
+- 🔭 I’m a **Enthusiast**
 
 - 🌱 I’m currently learning **Deep Learning**
 
