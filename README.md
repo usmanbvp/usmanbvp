@@ -15,7 +15,6 @@
 <p align="left">
 <a href="https://twitter.com/usman_bvp" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="usman_bvp" height="30" width="40" /></a>
 <a href="https://linkedin.com/in/usman-pathan" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="usman-pathan" height="30" width="40" /></a>
-<a href="https://kaggle.com/usmanbvp" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/kaggle.svg" alt="usmanbvp" height="30" width="40" /></a>
 <a href="https://instagram.com/usman_bvp" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="usman_bvp" height="30" width="40" /></a>
 <a href="https://www.hackerrank.com/usman_bvp" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="usman_bvp" height="30" width="40" /></a>
 <a href="https://www.leetcode.com/usman_bvp" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="usman_bvp" height="30" width="40" /></a>
