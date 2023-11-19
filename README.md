@@ -5,7 +5,7 @@
 
 - 🌱 I’m currently learning **Deep Learning**
 
-- 💬 Ask me about **Data Science & Machine Learning**
+- 💬 Ask me about **Data Science, Power Bi & Machine Learning**
 
 - 📄 Know about my experiences [resume](https://drive.google.com/file/d/1DV1lRxe5_hG2Ribk-XYey02VnF5KkaUk/view?usp=sharing)
 
