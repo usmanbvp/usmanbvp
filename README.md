@@ -1,11 +1,9 @@
 <h1 align="center">Hey 👋, I'm Usman</h1>
-<h3 align="center">Aspiring Data Analyst from India</h3>
-
-- 🔭 I’m a **Aspiring Data Analyst**
+<h3 align="center">Software Engineer from India</h3>
 
 - 🌱 I’m currently learning **Deep Learning**
 
-- 💬 Ask me about **Data Science, Machine Learning and Power BI**
+- 💬 Ask me about **Python, Django, Flask, React JS, Machine Learning, Tableau **
 
 - 📄 Know about my experiences [resume](https://drive.google.com/file/d/1yDNp47flsilt5iD0L33TENp4aTHhYDak/view?usp=sharing)
 
