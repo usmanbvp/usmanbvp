@@ -3,7 +3,7 @@
 
 - 🌱 I’m currently learning **Deep Learning**
 
-- 💬 Ask me about **Python, Django, Flask, React JS, Machine Learning, Tableau **
+- 💬 Ask me about **Python, Django, Flask, Machine Learning **
 
 - 📄 Know about my experiences [resume](https://drive.google.com/file/d/1yDNp47flsilt5iD0L33TENp4aTHhYDak/view?usp=sharing)
 
