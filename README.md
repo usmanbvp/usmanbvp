@@ -1,7 +1,7 @@
 <h1 align="center">Hey 👋, I'm Usman</h1>
 <h3 align="center">Software Engineer from India</h3>
 
-- 🌱 I’m currently learning **Deep Learning**
+- 🌱 I’m currently learning **Agentic AI**
 
 - 💬 Ask me about **Python, Django, Machine Learning **
 
