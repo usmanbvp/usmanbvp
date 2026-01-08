@@ -5,7 +5,7 @@
 
 - 💬 Ask me about **Python, Django, Machine Learning**
 
-- 📄 Know about my experiences [resume](https://drive.google.com/file/d/1yDNp47flsilt5iD0L33TENp4aTHhYDak/view?usp=sharing)
+<!-- 📄 Know about my experiences [resume](https://drive.google.com/file/d/1yDNp47flsilt5iD0L33TENp4aTHhYDak/view?usp=sharing) -->
 
 - ⚡ Fun fact **I think I am funny**
 
